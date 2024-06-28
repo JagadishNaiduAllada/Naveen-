@@ -1,1 +1,3 @@
 hi after merge, practice rebase
+after that practice merge conflicts as well.
+
